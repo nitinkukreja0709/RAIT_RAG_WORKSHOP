@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+Retrieval-Augmented Generation (RAG) is a natural language processing framework.
+It combines the strengths of retrieval-based and generation-based AI models.
+FAISS is a library for efficient similarity search and clustering of dense vectors.

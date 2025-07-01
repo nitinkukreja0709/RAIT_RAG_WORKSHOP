@@ -1,0 +1,11 @@
+
+This is the first paragraph of the dummy text file.
+It has a few sentences and is intended to demonstrate basic loading and splitting.
+
+This is the second paragraph.
+It is separated by a double newline.
+We will use this to see how the RecursiveCharacterTextSplitter handles paragraph breaks.
+
+This is the third and final paragraph. It is a bit longer than the previous ones.
+It contains more text to test chunking with a specific size and overlap.
+LangChain's RecursiveCharacterTextSplitter is designed to handle various separators efficiently.

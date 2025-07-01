@@ -1,0 +1,3 @@
+This is the first line.
+This is the second line with more content.
+And this is the third line, completing the sample.
